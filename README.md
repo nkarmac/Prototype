@@ -1,3 +1,4 @@
 ## https://nkarmac.github.io/Prototype/
 
-Android app prototype for a colleague built using Proto.io
+Android app prototype for restaurants hiring waiters & waitresses
+<br>Built with proto.io
